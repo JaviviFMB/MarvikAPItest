@@ -1,4 +1,4 @@
-#MARVIK API TEST
+# MARVIK API TEST
 
 This repository creates an API with two endpoints. A POST endpoint and a GET endpoint, in order to test the abilities and technical requirements to apply to Marvik.
 
